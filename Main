@@ -2,7 +2,7 @@
 <style>
 .nav{
 overflow: hidden;
-background-color: #333;
+background-color: #3E0355;
 }
 .nav a {
   float: left;
@@ -19,7 +19,7 @@ background-color: #333;
 }
 
 .nav a.active {
-  background-color: #4CAF50;
+  background-color: #610386;
   color: white;
 }
 </style>
